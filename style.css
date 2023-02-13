@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background: rgb(129, 148, 157);
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+}
+
+ul{
+    list-style: none;
+    text-align: center;
+    
+}
+li{
+    margin-top: 10px;
+}
+button{
+margin-left: 30px;
+}
+#box1{
+    /* background: #000; */
+    border: 2px solid black;
+    width: 20vw;
+    height: auto;
+    text-align: center;
+    background-color: rgb(174, 196, 214);
+    
+}
+#box2{
+    margin-left: 10px;
+    background-color: rgb(174, 196, 214);
+    border: 2px solid black;
+    width: 20vw;
+    height: auto;
+    text-align: center;
+}
